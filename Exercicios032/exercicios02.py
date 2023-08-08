@@ -5,11 +5,8 @@ minutos atuais. Exemplo, se agora são 09:35h o usuário deverá informar como r
 quantos minutos já se passaram desde às 00:00h deste dia
 '''
 
-#Inputs
 hr = int(input("Valor referente as horas atuais: " ))
 min = int(input("Valor referente aos minutos atuais: " ))
-
-#Calculos
 
 mt = hr * 60
 
